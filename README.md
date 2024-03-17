@@ -1,2 +1,3 @@
 # basic-html-css
-This file contains content of HTML ,CSS &amp; Javascript 
+This is my first Git Repository. 
+Author: Roshan Singh
